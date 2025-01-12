@@ -28,5 +28,9 @@ To analyze the historical performance of different countries in the Olympic Game
 
 # Project_Insight :
 
+This project delves deep into the historical performance of nations in the Olympic Games, uncovering the factors that drive success. From analyzing medal trends to identifying emerging sporting powers, this study provides valuable insights into the evolution of Olympic competition.
+
+# final Conclusion :
+
 
 
